@@ -1,0 +1,6 @@
+matplotlib
+ipython
+notebook
+ipython-sql
+psycopg2-binary
+pandas
